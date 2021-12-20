@@ -1,0 +1,14 @@
+release/file_operation.o
+release/form.o
+release/main.o
+release/mainwindow.o
+release/mythread.o
+release/search_func.o
+release/search_keyword.o
+release/search_tag.o
+release/moc_file_operation.o
+release/moc_form.o
+release/moc_mainwindow.o
+release/moc_mythread.o
+release/moc_search_keyword.o
+release/moc_search_tag.o

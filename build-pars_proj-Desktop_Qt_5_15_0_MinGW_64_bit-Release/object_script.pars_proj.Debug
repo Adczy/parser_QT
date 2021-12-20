@@ -1,0 +1,14 @@
+debug/file_operation.o
+debug/form.o
+debug/main.o
+debug/mainwindow.o
+debug/mythread.o
+debug/search_func.o
+debug/search_keyword.o
+debug/search_tag.o
+debug/moc_file_operation.o
+debug/moc_form.o
+debug/moc_mainwindow.o
+debug/moc_mythread.o
+debug/moc_search_keyword.o
+debug/moc_search_tag.o
